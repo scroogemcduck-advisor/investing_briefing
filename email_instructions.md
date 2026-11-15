@@ -1,6 +1,6 @@
 # Email Instructions
 
-Connect to email using gmail connector: ncurts74@gmail.com
+Connect to the email: scrooge.mcduck.advisor@gmail.com using MailMCP connector.
 
 Newsletters to parse (all newsletters labeled as 'investing'). Only the ones received yesterday and today.
 
@@ -10,7 +10,8 @@ Send it to the following recipients: Check recipients.md file.
 
 ## Subject 
 Email Subject should be: 
-Investing Brief - date in the format day of week, day of month, month, and year. Example: Investing Brief - Wed 21 Oct 2026
+Investing Brief - date in the format day of week, day of month, month, and year. 
+Example: Investing Brief - Wed 21 Oct 2026
 
 ## Body
 For the body/content of the email, follow instructions in the summary.md file
